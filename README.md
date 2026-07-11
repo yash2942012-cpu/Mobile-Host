@@ -8,7 +8,6 @@ This is a small USB Hub, your Mobile Phone connects via a Type-C to USB-A Female
 * **Upstream Connection**: USB-A Male (Requires an OTG adapter to phone host)
 * **Downstream Connections**: 3x USB-A ports, 1x USB-C peripheral port
 
-This is my first PCB!
 
 <img width="962" height="706" alt="Screenshot from 2026-07-09 19-57-21" src="https://github.com/user-attachments/assets/398ad97e-1d00-40bd-b5b7-a1307be66e9e" />
 
