@@ -32,6 +32,8 @@ Bottom Layer
 
 <img width="754" height="481" alt="Screenshot from 2026-07-09 20-11-29" src="https://github.com/user-attachments/assets/e5fe96c0-92d0-4e49-ba56-ea76885f8a51" />
 
+ YOU CAN ALSO DOWNLOAD THE GERBER FILE FOR DIRECT MANUFACTURING!
+
 ## BOM
 
 |Part ID	       |Quantity	  |Price       |link
