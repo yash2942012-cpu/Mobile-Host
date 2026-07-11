@@ -33,3 +33,19 @@ Top Layer
 Bottom Layer
 
 <img width="754" height="481" alt="Screenshot from 2026-07-09 20-11-29" src="https://github.com/user-attachments/assets/e5fe96c0-92d0-4e49-ba56-ea76885f8a51" />
+
+## BOM
+
+|Part ID	       |Quantity	  |Price       |link
+|---------------|-----------|------------|-----------------------------------------------------------------------------------------------------------------------|
+|"C6386905"		   |"1"	       |"0.066"     |"https://atta.szlcsc.com/upload/public/pdf/source/20230523/03CC7987750CEF13E6E106534A09418D.pdf"	                      |
+|"C519970"	     |"2" 		     |"0.025"     |"https://item.szlcsc.com/373011.html"                                                                                  |
+|"C2684433"	    |"1"			     |"0.253"		   |"https://item.szlcsc.com/2782346.html"                                                                                 |
+|"C1845619"     |"2"			     |"0.005"		   |"https://item.szlcsc.com/362304.html"                                                                                  |
+|"C1525"        |"2"			     |"0.007"	    |"https://item.szlcsc.com/15869.html"                                                                                   |
+|"C577001"      |"1"		      |"0.047"     |"https://item.szlcsc.com/373011.html"                                                                                  |
+|"C1985574"     |"1"			     |"0.595"		   |"https://img.jlc.com/pdf/applypastecomponent/2021-12-20/798399F/6e73fe4a6e1849e6a80262d2cddfa76e/2.PDF"                |
+|"C668591"      |"3"		      |"0.067"	    |"https://item.szlcsc.com/698534.html"                                                                                  |
+|"C165948"      |"2" 	      |"0.186"		   |"https://item.szlcsc.com/datasheet/TYPE-C-31-M-12/177331.html"                                                         |
+|"C25796"       |"2"		      |"0.001"		   |"https://item.szlcsc.com/323315.html"                                                                                  |
+|"C25905"	      |"2"	       |"0.001"		   |"https://item.szlcsc.com/323315.html"                                                                                  |
