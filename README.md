@@ -4,7 +4,6 @@ This is a small USB Hub, your Mobile Phone connects via a Type-C to USB-A Female
 
 ## Technical Specs
 * **Hub Controller**: SL2.1S (USB 2.0 High-Speed 4-Port Controller)
-* **Power Delivery Control**: LDR6023A (USB Type-C PD controller)
 * **Upstream Connection**: USB-A Male (Requires an OTG adapter to phone host)
 * **Downstream Connections**: 3x USB-A ports, 1x USB-C peripheral port
 
