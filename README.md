@@ -63,5 +63,5 @@ PCB Manufacturing   | $4.00           |
 SMT Assembly        | $80.89          |
 Shipping            | $9.94           |
 Coupon              | $10.00          |
-Total               | $80.83          |
+Total               | $84.83          |
 
