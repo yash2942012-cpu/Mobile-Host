@@ -53,15 +53,3 @@ Bottom Layer
 |"C25796"       |"2"		      |"0.001"		   |"https://item.szlcsc.com/323315.html"                                                                                  |
 |"C25905"	      |"2"	       |"0.001"		   |"https://item.szlcsc.com/323315.html"                                                                                  |
 
-## Total PCB Cost
-
-<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/39d30a44-962d-4b75-a2e9-b5aadf8c1a64" />
-
-Factor              | Cost            |
---------------------|-----------------|
-PCB Manufacturing   | $4.00           |
-SMT Assembly        | $80.89          |
-Shipping            | $9.94           |
-Coupon              | $10.00          |
-Total               | $84.83          |
-
